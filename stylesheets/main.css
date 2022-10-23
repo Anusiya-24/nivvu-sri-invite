@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "molle-italic";
+  src: url("../fonts/molle-italic.ttf");
+}
+@font-face {
+  font-family: "oi-regular";
+  src: url("../fonts/oi-regular.ttf");
+}
+#confetti-canvas {
+  position: absolute;
+  top: 0;
+}
