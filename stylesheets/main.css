@@ -3,8 +3,8 @@
   src: url("../fonts/molle-italic.ttf");
 }
 @font-face {
-  font-family: "oi-regular";
-  src: url("../fonts/oi-regular.ttf");
+  font-family: "mari-font";
+  src: url("../fonts/mari-font.ttf");
 }
 #confetti-canvas {
   position: absolute;
